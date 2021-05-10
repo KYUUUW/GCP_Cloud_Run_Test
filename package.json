@@ -1,0 +1,23 @@
+{
+  "name": "gcp_cloud_run_prcatice",
+  "version": "1.0.0",
+  "description": "Simple hello world with node.js + Docker + Cloud Run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KYUUUW/GCP_Cloud_Run_Test.git"
+  },
+  "author": "@kyuuuw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KYUUUW/GCP_Cloud_Run_Test/issues"
+  },
+  "homepage": "https://github.com/KYUUUW/GCP_Cloud_Run_Test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gitmoji-cli": "^4.0.0"
+  }
+}
